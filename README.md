@@ -3,7 +3,7 @@
 - 🌱 Born 2007-2-11 in China —— an average game coder
 - 🤖 Working on Roblox currently.
 - Maybe im good at animation more than coding. (?
-- I LOVE luau
+- luau
 - If you’re interested in what I’m building, welcome to contact me.
 
 ## Links

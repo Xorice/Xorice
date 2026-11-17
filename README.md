@@ -1,7 +1,7 @@
 # 你好！我素🍞某人 ✨
 
 - 🌱 Born 2007-2-11 in China —— an average game coder
-- 🤖 Working on Roblox currently.
+- 🤖 Working on Roblox UGC currently.
 - Maybe im good at animation more than coding. (?
 - luau
 - If you’re interested in what I’m building, welcome to contact me.
